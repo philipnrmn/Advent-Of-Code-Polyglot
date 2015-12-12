@@ -50,4 +50,4 @@ into `src/advent-of-code` where leiningen expects to find them.
 
 | Day | Part | Contributor |
 | --: | ---: | ----------- |
-| Nothing here yet...      |
+| 1   | 1    | philipnrmn  |
