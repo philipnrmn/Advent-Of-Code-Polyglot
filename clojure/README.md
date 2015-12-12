@@ -51,3 +51,4 @@ into `src/advent-of-code` where leiningen expects to find them.
 | Day | Part | Contributor |
 | --: | ---: | ----------- |
 | 1   | 1    | philipnrmn  |
+| 1   | 2    | philipnrmn  |
